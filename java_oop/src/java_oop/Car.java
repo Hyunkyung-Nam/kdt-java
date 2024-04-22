@@ -21,14 +21,14 @@ public class Car {
 		System.out.println("speed : " + this.speed);
 	}
 	
-//	public int getSpeed() {
-//		return speed;
-//	}
-//	public void setSpeed(int setSpeed) {
-//		if(setSpeed < 0 ) {
-//			this.speed = Math.abs(setSpeed);
-//		}
-//		this.speed = setSpeed;
-//	}
+	public int getSpeed() {
+		return speed;
+	}
+	public void setSpeed(int setSpeed) {
+		if(setSpeed < 0 ) {
+			this.speed = Math.abs(setSpeed);
+		}
+		this.speed = setSpeed;
+	}
 	
 }
