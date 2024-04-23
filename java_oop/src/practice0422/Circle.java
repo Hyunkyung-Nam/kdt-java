@@ -1,4 +1,4 @@
-package Practice0422;
+package practice0422;
 
 public class Circle extends Shape {
 	private double radius;

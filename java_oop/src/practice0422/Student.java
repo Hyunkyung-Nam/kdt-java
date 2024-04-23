@@ -1,4 +1,4 @@
-package Practice0422;
+package practice0422;
 
 public abstract class Student {
 	private String school;

@@ -1,4 +1,4 @@
-package Practice0422;
+package practice0422;
 
 public class PracticeCircle {
 	private final double radius;

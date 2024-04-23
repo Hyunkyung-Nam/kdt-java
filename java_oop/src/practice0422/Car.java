@@ -1,4 +1,4 @@
-package Practice0422;
+package practice0422;
 
 public class Car extends Vehicles {
 	public Car(String brand, String model, int year, int passengerCapacity) {

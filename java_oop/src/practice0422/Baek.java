@@ -1,4 +1,4 @@
-package Practice0422;
+package practice0422;
 
 public class Baek extends Student {
 
